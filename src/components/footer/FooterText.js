@@ -26,14 +26,14 @@ export const FooterText = () => {
     <Link
       color='inherit'
       underline='none'
-      href='https://github.com/sponsors/JoHoop'
+      href='eldoret-mission.vercel.app'
       target='_blank'
       rel='noopener noreferrer'
       className={classes.footerText}
     >
       <HeartIcon />
       <Typography variant='body1'>
-        <TextDecrypt text={' Sponsor'} />
+        <TextDecrypt text={' Eldoret Welcomes the Missionaries from Kansas US'} />
       </Typography>
     </Link>
   );

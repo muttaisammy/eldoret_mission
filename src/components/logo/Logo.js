@@ -7,7 +7,7 @@ const useStyles = makeStyles((theme) => ({
         "&:hover": {
             fill: theme.palette.primary.main,
         },
-        transition: "all 0.5s ease",
+        transition: "all 1s ease",
     },
 }));
 

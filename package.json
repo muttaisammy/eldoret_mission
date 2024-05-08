@@ -4,7 +4,7 @@
     "homepage": "https://jolienhoop.com",
     "description": "This is a clean customizable portfolio template for developers.",
     "repository": "https://github.com/JoHoop/personal-website-react",
-    "author": "Jo Lienhoop <hey@jolienhoop.com>",
+    "author": "Eldoret <hey@jolienhoop.com>",
     "license": "MIT",
     "dependencies": {
         "@material-ui/core": "^4.11.0",
